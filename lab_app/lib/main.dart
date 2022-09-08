@@ -3,13 +3,13 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:window_size/window_size.dart';
 
-import 'home.dart';
-import 'reservas.dart';
-import 'equipamentos.dart';
-import 'locais.dart';
-import 'aulas.dart';
-import 'cursos.dart';
-import 'disciplinas.dart';
+import 'views/home.dart';
+import 'views/reservas.dart';
+import 'views/equipamentos.dart';
+import 'views/locais.dart';
+import 'views/aulas.dart';
+import 'views/cursos.dart';
+import 'views/disciplinas.dart';
 
 
 void main() {
